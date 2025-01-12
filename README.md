@@ -5,4 +5,6 @@
 
 
 Для установки
+
+
 wget https://raw.githubusercontent.com/voterol/FunPayVertexCFG/main/linux-install.sh -nc && bash linux-install.sh
