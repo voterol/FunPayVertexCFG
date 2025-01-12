@@ -7,4 +7,4 @@
 Для установки
 
 
-wget [https://raw.githubusercontent.com/voterol/FunPayVertexCFG/main/linux-install.sh](https://raw.githubusercontent.com/voterol/FunPayVertexCFG/refs/heads/main/linux-install.sh) -nc && bash linux-install.sh
+wget https://raw.githubusercontent.com/voterol/FunPayVertexCFG/refs/heads/main/linux-install.sh -nc && bash linux-install.sh
