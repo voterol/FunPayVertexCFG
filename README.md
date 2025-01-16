@@ -8,8 +8,8 @@
 Для установки
 
 
-wget https://raw.githubusercontent.com/voterol/FunPayVertexCFG/refs/heads/main/linux-install.sh -nc && bash linux-install.sh
-
+wget https://raw.githubusercontent.com/NightStrang6r/FunPayVertex/main/linux-install.sh -nc && bash linux-install.sh
+после установки переносите папку configs
 
 автовыдача на названиях 🩵🩵Аккаунт SPOTIFY PREMIUM🩵🩵FAMILY🩵1 месяц 🩵Бот Автоответчик 🩵
 💜💜 Аккаунт SPOTIFY PREMIUM💜💜FAMILY💜3 месяца 💜Бот Автоответчик 💜
