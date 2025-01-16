@@ -31,3 +31,4 @@ wget https://raw.githubusercontent.com/voterol/FunPayVertexCFG/refs/heads/main/l
 
 ✅Гарантия на весь срок
 
+Если не выдает текст полностью то залейте фотки в бота и замените их в автовыдаче (фотки в каталоге Photos)
