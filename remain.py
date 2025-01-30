@@ -1,4 +1,5 @@
-from telethon import TelegramClient, events
+from telethon
+import TelegramClient, events
 import asyncio
 
 # ТВОИ ДАННЫЕ
